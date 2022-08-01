@@ -1,0 +1,18 @@
+.navbar {
+    background-color: black;
+}
+
+.behance_img {
+    margin-left: 26rem;
+}
+
+.behance_p {
+    color: white;
+    margin-right: 50rem;
+    margin-top: 1rem;
+}
+
+.behance_p a {
+    color: white;
+    text-decoration-line: underline;
+}
